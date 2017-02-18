@@ -145,3 +145,26 @@ The output is the same as challenge 1, but with respect to the view angle.
 
 Imagine that the view point is somewhere on the negative _y'_ axis looking
 towards the buildings.
+
+### Example
+
+Input
+
+```
+3 30
+-3 0 7 2 3
+-2 -1 3 2 2
+1 -1 5 2 2
+```
+
+Output
+
+```
+-3.23
+3
+-2.60
+7
+0.63
+5
+3.10
+```
